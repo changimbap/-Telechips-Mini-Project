@@ -38,7 +38,7 @@
 ## 🛠️ Tech Stack
 
 * **Hardware:** TOPST AI-G, TOPST D3-G, TOPST VCP-G, MIPI CSI Camera, DC Motor
-* **Software/Languages:** Python 3, C/C++, HTML5/CSS/JS, Web Serial API
+* **Software/Languages:** Python 3, C/C++, HTML, Web Serial API
 * **Network:** UDP/TCP Socket, CAN, IPC
 
 ## 📝 Author
